@@ -1,0 +1,17 @@
+video,resolution,crf,vmaf
+cutting_orange_tuil_8s_h265_360p_crf18.mp4,360,18,86.9125678399168
+cutting_orange_tuil_8s_h265_360p_crf24.mp4,360,24,85.6690675634096
+cutting_orange_tuil_8s_h265_360p_crf30.mp4,360,30,82.85516760291061
+cutting_orange_tuil_8s_h265_360p_crf36.mp4,360,36,76.32556079417881
+cutting_orange_tuil_8s_h265_720p_crf18.mp4,720,18,85.0958446985446
+cutting_orange_tuil_8s_h265_720p_crf24.mp4,720,24,83.7609963887734
+cutting_orange_tuil_8s_h265_720p_crf30.mp4,720,30,80.83078607692308
+cutting_orange_tuil_8s_h265_720p_crf36.mp4,720,36,74.59341167151764
+cutting_orange_tuil_8s_h265_1080p_crf18.mp4,1080,18,83.27039271933468
+cutting_orange_tuil_8s_h265_1080p_crf24.mp4,1080,24,81.97802377962577
+cutting_orange_tuil_8s_h265_1080p_crf30.mp4,1080,30,79.1629320935551
+cutting_orange_tuil_8s_h265_1080p_crf36.mp4,1080,36,73.46844880249479
+cutting_orange_tuil_8s_h265_2160p_crf18.mp4,2160,18,79.1065998918919
+cutting_orange_tuil_8s_h265_2160p_crf24.mp4,2160,24,77.88432499792097
+cutting_orange_tuil_8s_h265_2160p_crf30.mp4,2160,30,75.14600516424112
+cutting_orange_tuil_8s_h265_2160p_crf36.mp4,2160,36,70.04954224324327
