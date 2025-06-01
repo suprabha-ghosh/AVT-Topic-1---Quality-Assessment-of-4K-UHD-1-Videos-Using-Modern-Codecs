@@ -135,6 +135,18 @@ for video_data in all_video_data:
                alpha=0.6, label=video_data['name'], c=color)
     color_index = color_index + 1
 
+# Create summary CSV with mean SI and TI values
+print("\nCreating summary CSV with mean values...")
+with open('results/siti_summary.csv', 'w') as f:
+    f.write('input_file,si,ti\n')  # Header
+    for video_data in all_video_data:
+        video_name = video_data['name']
+        avg_si = round(video_data['avg_si'], 3)
+        avg_ti = round(video_data['avg_ti'], 3)
+        f.write(video_name + ',' + str(avg_si) + ',' + str(avg_ti) + '\n')
+
+print("Saved SITI summary: siti_summary.csv")
+
 plt.xlabel('SI')
 plt.ylabel('TI')
 plt.title('VCA')
