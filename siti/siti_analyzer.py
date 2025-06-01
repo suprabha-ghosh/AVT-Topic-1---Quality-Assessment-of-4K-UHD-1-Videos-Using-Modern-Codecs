@@ -126,8 +126,7 @@ for video_name in video_list:
 # Creating SITI graph
 print("\nCreating  graph...")
 plt.figure(figsize=(12, 8))
-
-colors = ['blue', 'red', 'green', 'orange', 'purple', 'brown', 'pink', 'gray']
+colors = ['blue', 'red', 'green', 'orange', 'purple', 'brown', 'pink', 'gray', 'cyan', 'magenta']
 color_index = 0
 
 for video_data in all_video_data:
