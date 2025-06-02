@@ -1,0 +1,17 @@
+video,resolution,crf,bitrate_kbps,vmaf
+cutting_orange_tuil_8s_av1_360p_crf18.mkv,360,18,1356.203,88.56785971041678
+cutting_orange_tuil_8s_av1_360p_crf24.mkv,360,24,905.28,88.42444483749999
+cutting_orange_tuil_8s_av1_360p_crf30.mkv,360,30,554.838,88.12726250833335
+cutting_orange_tuil_8s_av1_360p_crf36.mkv,360,36,341.337,87.75773352708325
+cutting_orange_tuil_8s_av1_720p_crf18.mkv,720,18,4157.769,86.30915624375008
+cutting_orange_tuil_8s_av1_720p_crf24.mkv,720,24,2842.311,86.1367643145833
+cutting_orange_tuil_8s_av1_720p_crf30.mkv,720,30,1735.223,85.805858875
+cutting_orange_tuil_8s_av1_720p_crf36.mkv,720,36,1014.589,85.34939667708339
+cutting_orange_tuil_8s_av1_1080p_crf18.mkv,1080,18,7148.708,84.28885718125
+cutting_orange_tuil_8s_av1_1080p_crf24.mkv,1080,24,5162.341,84.09824545416664
+cutting_orange_tuil_8s_av1_1080p_crf30.mkv,1080,30,3291.098,83.78702414166666
+cutting_orange_tuil_8s_av1_1080p_crf36.mkv,1080,36,2001.463,83.30904287083334
+cutting_orange_tuil_8s_av1_2160p_crf18.mkv,2160,18,17101.368,79.99749739791655
+cutting_orange_tuil_8s_av1_2160p_crf24.mkv,2160,24,12572.396,79.86001413541673
+cutting_orange_tuil_8s_av1_2160p_crf30.mkv,2160,30,8438.434,79.57078375416668
+cutting_orange_tuil_8s_av1_2160p_crf36.mkv,2160,36,5500.313,79.1297421875
