@@ -2,7 +2,7 @@
 
 This project provides an automated pipeline to **encode 4K 60fps videos** into different formats (AV1, H.265, VVC) at multiple resolutions and CRF levels, followed by **optional upscaling to original resolution** using FFmpeg.
 
-## 🔍 Project Overview
+## 🔍 Task Overview
 
 The pipeline does the following:
 1. **Accepts 4K/UHD-1 raw source videos** (`.mp4`, `.mkv`, `.avi`, `.webm,`, `.mov`)
