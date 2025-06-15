@@ -1,0 +1,12 @@
+video,resolution,qp,bitrate_kbps,vmaf
+h265_encoded_videos\bigbuck_bunny_h265_360p_qp24.mp4,360,24,777.732,49.97551067833333
+h265_encoded_videos\bigbuck_bunny_h265_360p_qp30.mp4,360,30,399.242,41.376066154999975
+h265_encoded_videos\bigbuck_bunny_h265_720p_qp24.mp4,720,24,1929.38,78.95081638000003
+h265_encoded_videos\bigbuck_bunny_h265_720p_qp30.mp4,720,30,945.338,69.70809880166665
+h265_encoded_videos\bigbuck_bunny_h265_720p_qp36.mp4,720,36,476.348,57.20430391999997
+h265_encoded_videos\bigbuck_bunny_h265_1080p_qp24.mp4,1080,24,3482.038,88.16024530166678
+h265_encoded_videos\bigbuck_bunny_h265_1080p_qp30.mp4,1080,30,1652.708,80.66458462333325
+h265_encoded_videos\bigbuck_bunny_h265_1080p_qp36.mp4,1080,36,815.268,68.89520798833337
+h265_encoded_videos\bigbuck_bunny_h265_2160p_qp24.mp4,2160,24,8720.746,96.8696552416667
+h265_encoded_videos\bigbuck_bunny_h265_2160p_qp30.mp4,2160,30,4104.876,92.59169965499996
+h265_encoded_videos\bigbuck_bunny_h265_2160p_qp36.mp4,2160,36,2004.668,84.46363489999987
