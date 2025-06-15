@@ -1,0 +1,12 @@
+video,resolution,qp,bitrate_kbps,vmaf
+vvc_decoded_videos\Sparks_cut_vvc_360p_qp24.mkv,360,24,137049.679,32.399209779166675
+vvc_decoded_videos\Sparks_cut_vvc_360p_qp30.mkv,360,30,101195.686,21.42552061041666
+vvc_decoded_videos\Sparks_cut_vvc_720p_qp24.mkv,720,24,235274.301,62.18516917291667
+vvc_decoded_videos\Sparks_cut_vvc_720p_qp30.mkv,720,30,173333.92,44.74915582083334
+vvc_decoded_videos\Sparks_cut_vvc_720p_qp36.mkv,720,36,99570.15,23.67153805833334
+vvc_decoded_videos\Sparks_cut_vvc_1080p_qp24.mkv,1080,24,302104.624,76.03130177500007
+vvc_decoded_videos\Sparks_cut_vvc_1080p_qp30.mkv,1080,30,227686.289,59.120008127083324
+vvc_decoded_videos\Sparks_cut_vvc_1080p_qp36.mkv,1080,36,136054.976,34.56287710625002
+vvc_decoded_videos\Sparks_cut_vvc_2160p_qp24.mkv,2160,24,422658.632,89.32503901875005
+vvc_decoded_videos\Sparks_cut_vvc_2160p_qp30.mkv,2160,30,322042.408,76.16266992083334
+vvc_decoded_videos\Sparks_cut_vvc_2160p_qp36.mkv,2160,36,214775.754,52.332881122916625
