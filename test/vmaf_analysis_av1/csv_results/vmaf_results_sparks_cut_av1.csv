@@ -1,0 +1,12 @@
+video,resolution,qp,bitrate_kbps,vmaf
+av1_encoded_videos\Sparks_cut_av1_360p_qp24.mkv,360,24,6494.599,37.42051853124998
+av1_encoded_videos\Sparks_cut_av1_360p_qp30.mkv,360,30,4280.466,32.95671987708335
+av1_encoded_videos\Sparks_cut_av1_720p_qp24.mkv,720,24,21010.686,72.49438406249998
+av1_encoded_videos\Sparks_cut_av1_720p_qp30.mkv,720,30,14374.134,66.80492627916665
+av1_encoded_videos\Sparks_cut_av1_720p_qp36.mkv,720,36,9066.934,58.43740713541664
+av1_encoded_videos\Sparks_cut_av1_1080p_qp24.mkv,1080,24,37785.827,86.15599356249997
+av1_encoded_videos\Sparks_cut_av1_1080p_qp30.mkv,1080,30,26117.426,81.43186071875002
+av1_encoded_videos\Sparks_cut_av1_1080p_qp36.mkv,1080,36,16963.675,73.99845640208332
+av1_encoded_videos\Sparks_cut_av1_2160p_qp24.mkv,2160,24,92414.952,97.78763549374996
+av1_encoded_videos\Sparks_cut_av1_2160p_qp30.mkv,2160,30,61494.373,95.10133642083333
+av1_encoded_videos\Sparks_cut_av1_2160p_qp36.mkv,2160,36,40475.497,90.51688507708344
