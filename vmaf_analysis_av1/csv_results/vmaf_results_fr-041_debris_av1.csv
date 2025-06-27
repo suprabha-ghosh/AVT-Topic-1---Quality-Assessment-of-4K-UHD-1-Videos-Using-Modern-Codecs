@@ -1,0 +1,12 @@
+video,resolution,qp,bitrate_kbps,vmaf
+av1_encoded_videos\fr-041_debris_av1_360p_qp24.mkv,360,24,6656.335,44.00533170833332
+av1_encoded_videos\fr-041_debris_av1_360p_qp30.mkv,360,30,4944.966,42.342177004166665
+av1_encoded_videos\fr-041_debris_av1_720p_qp24.mkv,720,24,20249.418,79.65377262291666
+av1_encoded_videos\fr-041_debris_av1_720p_qp30.mkv,720,30,14951.77,77.27028061458336
+av1_encoded_videos\fr-041_debris_av1_720p_qp36.mkv,720,36,10387.323,73.25708455416667
+av1_encoded_videos\fr-041_debris_av1_1080p_qp24.mkv,1080,24,36397.168,91.00702081458338
+av1_encoded_videos\fr-041_debris_av1_1080p_qp30.mkv,1080,30,26864.521,89.22225545416674
+av1_encoded_videos\fr-041_debris_av1_1080p_qp36.mkv,1080,36,18732.194,85.94436613750007
+av1_encoded_videos\fr-041_debris_av1_2160p_qp24.mkv,2160,24,97750.818,99.84059466458329
+av1_encoded_videos\fr-041_debris_av1_2160p_qp30.mkv,2160,30,71362.393,99.60537011041667
+av1_encoded_videos\fr-041_debris_av1_2160p_qp36.mkv,2160,36,49440.725,98.7512084520834

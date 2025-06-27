@@ -1,0 +1,12 @@
+video,resolution,qp,bitrate_kbps,vmaf
+av1_encoded_videos\Dancers_8s_av1_360p_qp24.mkv,360,24,295.929,68.43442501458337
+av1_encoded_videos\Dancers_8s_av1_360p_qp30.mkv,360,30,216.428,66.4358670354166
+av1_encoded_videos\Dancers_8s_av1_720p_qp24.mkv,720,24,601.177,85.39436444166664
+av1_encoded_videos\Dancers_8s_av1_720p_qp30.mkv,720,30,426.534,83.43711093124998
+av1_encoded_videos\Dancers_8s_av1_720p_qp36.mkv,720,36,295.938,80.51460489791663
+av1_encoded_videos\Dancers_8s_av1_1080p_qp24.mkv,1080,24,924.576,89.67376694375002
+av1_encoded_videos\Dancers_8s_av1_1080p_qp30.mkv,1080,30,643.067,88.21979779166665
+av1_encoded_videos\Dancers_8s_av1_1080p_qp36.mkv,1080,36,445.137,85.9286065937499
+av1_encoded_videos\Dancers_8s_av1_2160p_qp24.mkv,2160,24,2601.583,92.19680844166665
+av1_encoded_videos\Dancers_8s_av1_2160p_qp30.mkv,2160,30,1406.471,91.35768853750002
+av1_encoded_videos\Dancers_8s_av1_2160p_qp36.mkv,2160,36,908.011,89.94803369791671
