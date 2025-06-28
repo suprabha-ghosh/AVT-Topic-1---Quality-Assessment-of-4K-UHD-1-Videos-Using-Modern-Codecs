@@ -5,19 +5,19 @@ import os
 
 print("Video Content Analyzer Starting...")
 
-# Make results folder if it doesn't exist
-if not os.path.exists('results'):
-    os.makedirs('results')
-    print("results folder created.")
+# Make siti_results folder if it doesn't exist
+if not os.path.exists('siti_results'):
+    os.makedirs('siti_results')
+    print("siti_results folder created.")
 
 # Find MP4 and MKV files
 video_list = []
-for file in os.listdir('videos'):
+for file in os.listdir('video_source'):
     if file.endswith('.mp4') or file.endswith('.mkv'):
         video_list.append(file)
 
 if len(video_list) == 0:
-    print("No MP4 or MKV files found in videos folder!")
+    print("No MP4 or MKV files found in video_source folder!")
     exit()
 
 print("Found these videos:")
@@ -32,7 +32,7 @@ for video_name in video_list:
     print("\nAnalysing: " + video_name)
     
     # Open video
-    video_path = 'videos/' + video_name
+    video_path = 'video_source/' + video_name
     cap = cv2.VideoCapture(video_path)
     
     if not cap.isOpened():
@@ -113,7 +113,7 @@ for video_name in video_list:
     
     # Save individual data to CSV
     csv_name = video_name.replace('.mp4', '_siti.csv').replace('.mkv', '_siti.csv')
-    with open('results/' + csv_name, 'w') as f:
+    with open('siti_results/' + csv_name, 'w') as f:
         f.write('input_file,si,ti,n\n')  # Header
         for i in range(len(si_list)):
             frame_num = i + 1
@@ -137,7 +137,7 @@ for video_data in all_video_data:
 
 # Create summary CSV with mean SI and TI values
 print("\nCreating summary CSV with mean values...")
-with open('results/siti_summary.csv', 'w') as f:
+with open('siti_results/siti_summary.csv', 'w') as f:
     f.write('input_file,si,ti\n')  # Header
     for video_data in all_video_data:
         video_name = video_data['name']
@@ -154,9 +154,9 @@ plt.grid(True)
 plt.legend()
 
 # Save SITI graph
-plt.savefig('results/siti.png')
+plt.savefig('siti_results/siti.png')
 plt.close()
 
 print("Saved SITI")
 
-print("\nAll done! Check the results folder.")
+print("\nAll done! Check the siti_results folder.")

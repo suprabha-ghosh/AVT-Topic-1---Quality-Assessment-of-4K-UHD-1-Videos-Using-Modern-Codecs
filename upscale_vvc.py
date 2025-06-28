@@ -5,7 +5,7 @@ import os
 # Define paths
 INPUT_DIR = Path("vvc_encoded_videos")
 Y4M_DIR = Path("decoded_y4m")
-OUTPUT_DIR = Path("vvc_decoded_videos")
+OUTPUT_DIR = Path("upscaled_vvc")
 VVDECAPP_PATH = r"vvc_build\vvdec\bin\release-static\vvdecapp.exe"
 
 # Create necessary directories
